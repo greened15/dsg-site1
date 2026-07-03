@@ -1,0 +1,41 @@
+</>  CSS
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b0f0e;
+  color: #ffffff;
+}
+
+a {
+  color: #19c37d;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 80px 20px;
+}
+
+h1 {
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 24px;
+}
+
+p {
+  line-height: 1.6;
+  color: #cfd6d3;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  border-bottom: 1px solid #1c1f1e;
+}
