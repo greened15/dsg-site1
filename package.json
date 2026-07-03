@@ -1,5 +1,5 @@
 {
-  "name": "dsg-site",
+  "name": "dsg-site1",
   "private": true,
   "scripts": {
     "dev": "next dev",
